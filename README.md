@@ -109,3 +109,22 @@ No missing observations have been fabricated.
 - Task: Month 3 - Database Management & APIs
 - Project: Complete Weather Data Pipeline System
 - Project Level: Advanced
+
+## Submitted Historical Database
+
+The database/historical_snapshot.sqlite file contains
+historical Open-Meteo ERA5 weather records only.
+
+Weather data by Open-Meteo:
+https://open-meteo.com/
+
+ERA5 data: Copernicus Climate Change Service.
+Historical data licensed under CC BY 4.0:
+https://creativecommons.org/licenses/by/4.0/
+
+Data has been normalized and stored in SQLite.
+Raw live OpenWeatherMap observations remain local.
+Run run.py to reproduce the complete pipeline.
+
+The logs/sample_pipeline_audit.txt file contains
+actual sanitized pipeline run audit records.
