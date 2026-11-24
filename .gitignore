@@ -1,0 +1,32 @@
+# API credentials
+.env
+.env.*
+!.env.example
+
+# Python environment
+.venv/
+venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+
+# AI assistant local files
+.agents/
+.claude/
+
+# macOS files
+.DS_Store
+
+# Runtime logs
+logs/*.log
+logs/*.log.*
+
+# Temporary database files
+database/*.db-wal
+database/*.db-shm
+database/backups/
+
+# Keep acquired raw data local pending licensing review
+database/*.db
+reports/latest_weather.csv
+reports/alerts.csv

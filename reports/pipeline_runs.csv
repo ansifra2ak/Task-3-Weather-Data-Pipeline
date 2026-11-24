@@ -1,0 +1,21 @@
+id,source_id,started,finished,status,expected,received,inserted,rejected,error,source
+20,1,2026-11-24T08:13:49+00:00,2026-11-24T08:13:50+00:00,success,15,15,3,0,,OpenWeatherMap
+19,1,2026-11-24T08:12:46+00:00,2026-11-24T08:12:48+00:00,success,15,15,0,0,,OpenWeatherMap
+18,1,2026-11-24T08:11:42+00:00,2026-11-24T08:11:46+00:00,success,15,15,5,0,,OpenWeatherMap
+17,1,2026-11-24T08:10:40+00:00,2026-11-24T08:10:41+00:00,success,15,15,1,0,,OpenWeatherMap
+16,1,2026-11-24T08:09:37+00:00,2026-11-24T08:09:39+00:00,success,15,15,0,0,,OpenWeatherMap
+15,1,2026-11-24T08:08:35+00:00,2026-11-24T08:08:37+00:00,success,15,15,1,0,,OpenWeatherMap
+14,1,2026-11-24T08:07:33+00:00,2026-11-24T08:07:35+00:00,success,15,15,2,0,,OpenWeatherMap
+13,1,2026-11-24T08:06:31+00:00,2026-11-24T08:06:33+00:00,success,15,15,2,0,,OpenWeatherMap
+12,1,2026-11-24T08:05:29+00:00,2026-11-24T08:05:30+00:00,success,15,15,1,0,,OpenWeatherMap
+11,1,2026-11-24T08:04:27+00:00,2026-11-24T08:04:28+00:00,success,15,15,0,0,,OpenWeatherMap
+10,1,2026-11-24T08:03:24+00:00,2026-11-24T08:03:26+00:00,success,15,15,3,0,,OpenWeatherMap
+9,1,2026-11-24T08:02:22+00:00,2026-11-24T08:02:24+00:00,success,15,15,0,0,,OpenWeatherMap
+8,1,2026-11-24T08:01:20+00:00,2026-11-24T08:01:22+00:00,success,15,15,15,0,,OpenWeatherMap
+7,1,2026-11-24T07:47:12+00:00,2026-11-24T07:47:16+00:00,success,15,15,15,0,,OpenWeatherMap
+6,1,2026-11-24T07:36:29+00:00,2026-11-24T07:36:30+00:00,success,15,15,2,0,,OpenWeatherMap
+5,1,2026-11-24T07:35:26+00:00,2026-11-24T07:35:28+00:00,success,15,15,1,0,,OpenWeatherMap
+4,1,2026-11-24T07:34:24+00:00,2026-11-24T07:34:25+00:00,success,15,15,15,0,,OpenWeatherMap
+3,1,2026-11-24T07:21:29+00:00,2026-11-24T07:21:30+00:00,success,15,15,15,0,,OpenWeatherMap
+2,1,2026-11-24T07:00:24+00:00,2026-11-24T07:00:25+00:00,failed,15,0,0,0,Hyderabad: HTTP 401 from weather provider; Kochi: HTTP 401 from weather provider; Mumbai: HTTP 401 from weather provider; Delhi: HTTP 401 from weather provider; Bengaluru: HTTP 401 from weather provider; Chennai: HTTP 401 from weather provider; Kolkata: HTTP 401 from weather provider; Pune: HTTP 401 from weather provider; Ahmedabad: HTTP 401 from weather provider; Jaipur: HTTP 401 from weather provider; Lucknow: HTTP 401 from weather provider; Surat: HTTP 401 from weather provider; Visakhapatnam: HTTP 401 from weather provider; Thiruvananthapuram: HTTP 401 from weather provider; Nagpur: HTTP 401 from weather provider,OpenWeatherMap
+1,2,2026-11-24T06:59:54+00:00,2026-11-24T07:00:24+00:00,success,131400,131400,131400,0,,Open-Meteo

@@ -1,0 +1,5 @@
+season,hours,extreme_hours,extreme_pct,max_temp_c,max_rain_mm
+Pre-monsoon,33120,823,2.48,45.4,15.7
+Monsoon,43920,126,0.29,43.3,30.6
+Winter,32400,3,0.01,34.6,10.0
+Post-monsoon,21960,1,0.0,37.2,22.2
